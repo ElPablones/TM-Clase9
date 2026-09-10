@@ -1,8 +1,11 @@
-keras
 streamlit
 streamlit-webrtc
+av
 numpy
 opencv-python-headless
 Pillow
 tensorflow==2.12
+keras
+mido
+python-rtmidi
 
