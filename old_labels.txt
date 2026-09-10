@@ -1,3 +1,0 @@
-0 Izquierda
-1 Arriba
-2 Derecha
